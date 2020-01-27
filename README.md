@@ -1,7 +1,7 @@
 # GCP-Simple-Deploymet-Manager-
 Automating the Deployment of Infrastructure Using Deployment Manager
 
-![Image of Sample](https://cdn.qwiklabs.com/tQ3NS2xpirSs1UXVcklIYVQM7WkUc%2F8iC7ryGFPSfRs%3D)
+![Image of Sample](https://github.com/nnatbynet/GCP-Simple-Deploymet-Manager-/blob/master/image.png)
 
 Using the 2 files in order to deploy with those simple commands:
     1  mkdir dminfra
