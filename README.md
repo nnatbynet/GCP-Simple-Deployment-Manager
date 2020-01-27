@@ -5,11 +5,11 @@ Automating the Deployment of Infrastructure Using Deployment Manager
 
 Using the 2 files in order to deploy with those simple commands:
 ```javascript
-    1  mkdir dminfra
-    2  cd dminfra/
-    3  gcloud deployment-manager types list | grep network
-    4  gcloud deployment-manager types list | grep firewall
-    5  gcloud deployment-manager types list | grep instance
-    6  gcloud deployment-manager deployments create dminfra --config=config.yaml --preview
-    7  gcloud deployment-manager deployments update dminfra
+    mkdir dminfra
+    cd dminfra/
+    gcloud deployment-manager types list | grep network
+    gcloud deployment-manager types list | grep firewall
+    gcloud deployment-manager types list | grep instance
+    gcloud deployment-manager deployments create dminfra --config=config.yaml --preview
+    gcloud deployment-manager deployments update dminfra
 ```
