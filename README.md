@@ -3,8 +3,6 @@ Automating the Deployment of Infrastructure Using Deployment Manager
 
 ![Image of Sample](../assets/image.png?raw=true)
 
-![Image of Sample](https://github.com/nnatbynet/GCP-Simple-Deploymet-Manager-/blob/master/image.png)
-
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Using the 2 files in order to deploy with those simple commands:
