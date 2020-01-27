@@ -1,7 +1,7 @@
 # GCP-Simple-Deploymet-Manager-
 Automating the Deployment of Infrastructure Using Deployment Manager
 
-![Image of Sample](../assets/image.png?raw=true)
+![Image of Sample](assets/image.png?raw=true)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
