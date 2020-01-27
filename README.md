@@ -3,8 +3,6 @@ Automating the Deployment of Infrastructure Using Deployment Manager
 
 ![Image of Sample](assets/image.png?raw=true)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
 Using the 2 files in order to deploy with those simple commands:
     1  mkdir dminfra
     2  cd dminfra/
