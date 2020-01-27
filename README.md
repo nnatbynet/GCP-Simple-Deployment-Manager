@@ -1,4 +1,4 @@
-# GCP-Simple-Deploymet-Manager-
+# GCP-Simple-Deploymet-Manager
 Automating the Deployment of Infrastructure Using Deployment Manager
 
 ![Image of Sample](assets/image.png?raw=true)
