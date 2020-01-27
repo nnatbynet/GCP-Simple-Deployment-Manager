@@ -1,7 +1,7 @@
 # GCP-Simple-Deploymet-Manager-
 Automating the Deployment of Infrastructure Using Deployment Manager
 
-![Image of Sample](image.png?raw=true)
+![Image of Sample](../image.png?raw=true)
 
 ![Image of Sample](https://github.com/nnatbynet/GCP-Simple-Deploymet-Manager-/blob/master/image.png)
 
